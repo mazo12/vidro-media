@@ -1,1 +1,11 @@
-{"channels": [], "videos": []}
+{
+ "channels": [
+  {
+   "id": "c1793324499719",
+   "name": "نور",
+   "avatar": "https://github.com/mazo12/vidro-media/releases/download/videos/c1793324499719-1793324502350.jpg",
+   "avatar_asset_id": 690548898
+  }
+ ],
+ "videos": []
+}
