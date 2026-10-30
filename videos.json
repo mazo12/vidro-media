@@ -7,5 +7,18 @@
    "avatar_asset_id": 690548898
   }
  ],
- "videos": []
+ "videos": [
+  {
+   "id": "v1793324506597",
+   "title": "154138",
+   "channel": "c1793324499719",
+   "url": "https://github.com/mazo12/vidro-media/releases/download/videos/v1793324506597.mp4",
+   "asset_id": 690549129,
+   "thumb": "https://github.com/mazo12/vidro-media/releases/download/videos/v1793324506597.jpg",
+   "thumb_asset_id": 690549198,
+   "size": 1373975,
+   "duration": 15,
+   "created": 1793324511
+  }
+ ]
 }
